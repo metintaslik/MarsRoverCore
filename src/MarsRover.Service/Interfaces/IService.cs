@@ -11,6 +11,6 @@ namespace MarsRover.Service.Interfaces
         string CurrentPosition(RoverVehicle rover);
         void SendCommand(RoverVehicle rover, string command);
         void Mover(RoverVehicle rover);
-        void Spinner(RoverVehicle rover, int move);
+        void Spinner(RoverVehicle rover);
     }
 }
