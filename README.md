@@ -9,7 +9,7 @@
 - Araç için model ve property tanımları, Kutuplar için Enum modeli
 - Araca komut gönderme, ileri geri hareketi, sağ sol hareketi kazandırma metotlarının hazırlanması
 - Service katmanı için xunit test ile Moq paketlerini kullanarak Unit Test'inin yapılması
-- Daha okunabilir ve anlaşılabilir yapı kurulması
+- Daha okunabilir ve anlaşılabilir çalışma ortamı kurulması
 
 #### Screenshots
 
