@@ -15,6 +15,7 @@
 
 ![](https://raw.githubusercontent.com/metintaslik/MarsRoverCore/main/images/Code%20Metrics%20Readability.png)
 ![](https://raw.githubusercontent.com/metintaslik/MarsRoverCore/main/images/Unit%20Test%20Results.png)
+![](https://raw.githubusercontent.com/metintaslik/MarsRoverCore/main/images/ExpectedOutput.png)
 
 ## MarsRover Algorithm
 
